@@ -18,7 +18,7 @@ Durante o programa, foram desenvolvidos **4 projetos em Python**, sendo **2 proj
 
 ### 🔹 Projeto 1 — EDA e Predição com Dados da CAIXA Singular
 > **Tema:** Análise de clientes de alta renda e previsão de diversificação de carteira  
-> **Descrição:** Projeto baseado em dados fictícios da CAIXA Singular, envolvendo:
+> **Descrição:** Projeto de **prática orientada em aula** baseado em dados fictícios da CAIXA Singular, envolvendo:
 - Análise Exploratória de Dados (EDA)
 - Testes estatísticos de hipóteses
 - Modelagem preditiva com **LightGBM** e **XGBoost**
@@ -36,7 +36,7 @@ Durante o programa, foram desenvolvidos **4 projetos em Python**, sendo **2 proj
 
 ### 🔹 Projeto 2 — Titanic: Sobrevivência e Machine Learning Clássico
 > **Tema:** Predição de sobreviventes do Titanic  
-> **Descrição:** Projeto de prática orientada, com foco em:
+> **Descrição:** Projeto de **prática orientada em aula**, com foco em:
 - Limpeza e estruturação de dados
 - Feature Engineering
 - Testes estatísticos de hipóteses
